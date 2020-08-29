@@ -16,6 +16,8 @@ int main( void )
 	printf("\n\n");
 	zasbdySentence1();
 	printf("\n\n");
+	asrn9Sentence1();
+	printf("\n\n");
 	sn4fdSentence1();
 	printf("\n\n");
 	hkg8bSentence1();
@@ -88,6 +90,9 @@ int main( void )
 
     jkmx5vSentence_FINAL();
     printf("\n\n");
+
+	asrn9Sentence2();
+	printf("\n\n");
 
 	partbrSentence1();
 	printf("\n\n");

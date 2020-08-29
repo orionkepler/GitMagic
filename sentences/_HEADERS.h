@@ -78,3 +78,6 @@ int mjwcbcSentence2();
 
 int taezkvSentence1();
 int taezkvSentence2();
+
+int asrn9Sentence1();
+int asrn9Sentence2();
