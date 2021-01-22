@@ -197,14 +197,9 @@ int main(void)
 
 	ojl8q7Sentence1();
 	ojl8q7Sentence2();
-	
-	printf("\n\n");
-	dmqnrSentence1();
-	dmqnrSentence2();
-	printf("\n\n");
 
-	jdapm8Sentence1();
-	jdapm8Sentence2();
+	llkdbSentence1();
+	llkdbSentence2();
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
